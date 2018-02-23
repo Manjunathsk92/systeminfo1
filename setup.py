@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name="systeminfo",
+setup(name="systeminfo1",
             version="0.1",
             description="Basic system information for COMP30670",
             url="",

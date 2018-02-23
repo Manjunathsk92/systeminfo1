@@ -1,3 +1,0 @@
-[console_scipts]
-comp30670_systeminfo1 = systeminfo1.main:main
-
